@@ -1,0 +1,50 @@
+.footer {
+  width: 100%;
+  overflow: hidden;
+  background: #1c1c1c;
+  position: absolute;
+  bottom: 0;
+}
+.footer .fonntet_conten {
+  width: 1200px;
+  height: 120px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.footer .fonntet_conten .fonnter_wrap {
+  width: 228px;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.footer .fonntet_conten .fonnter_wrap .span_we {
+  display: block;
+  float: left;
+  font-family: PingFangSC-Medium;
+  font-size: 16px;
+  color: #999;
+}
+.footer .fonntet_conten .fonnter_wrap .span_disclaimer {
+  display: block;
+  float: right;
+  font-family: PingFangSC-Medium;
+  font-size: 16px;
+  color: #999;
+  cursor: pointer;
+}
+.footer .fonntet_conten .cooyr {
+  height: 17px;
+  opacity: 0.4;
+  font-family: PingFangSC-Medium;
+  font-size: 12px;
+  color: #fff;
+  line-height: 17px;
+  text-align: center;
+  margin-top: 20px;
+}
+.footer .fonntet_conten .cooyr ._change_password {
+  width: 460px;
+  height: 495px;
+  background: #fff;
+  border-radius: 4px;
+}

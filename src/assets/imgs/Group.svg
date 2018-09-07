@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="绑定手机号" transform="translate(-841.000000, -295.000000)" fill="#4A4A4A">
+            <g id="Group-Copy" transform="translate(723.000000, 157.000000)">
+                <g id="Group-14" transform="translate(118.000000, 138.000000)">
+                    <polygon id="Triangle" points="4 0 8 5 0 5"></polygon>
+                    <polygon id="Triangle" transform="translate(4.000000, 9.500000) scale(1, -1) translate(-4.000000, -9.500000) " points="4 7 8 12 0 12"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
